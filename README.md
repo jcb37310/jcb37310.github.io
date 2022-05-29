@@ -1,4 +1,6 @@
 # jcb37310.github.io
 Personal Website
 
-Which is easier, to do all the edits in README.md or to have an index.html that is edited locally and pushed to the repository?
+My little spot on the web.
+
+For many years, I've had a website at www.jcby.com. That site will go away at the end of 2023. Any further posting will be here, but I do not expect it to be much. This is mainly for truly personal use.
